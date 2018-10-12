@@ -1,3 +1,8 @@
+Name: [Rohith Kandi](https://github.com/Rohith09)<br/>
+Place: India<br/>
+About: Student and software developer! A Cybersecurity Enthusiast<br/>
+Programming Language:Java,Python<br/>
+Email: kandirohith09@gmail.com<br/>
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
